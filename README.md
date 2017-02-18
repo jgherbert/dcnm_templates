@@ -1,7 +1,7 @@
 # dcnm_templates
 A repo of configuration deployment templates for Cisco DCNM.
 
-Author: John Herbert (Twitter: @mrtugs)
+Author: John Herbert (Twitter: @mrtugs, Web: http://movingpackets.net/)
 
 # About
 
